@@ -40,6 +40,13 @@ Preemptive version of SJF. At each time unit, the process with the shortest rema
 ### MLFQ (Multilevel Feedback Queue)
 A complex scheduler that uses multiple queues with varying priorities and time quanta. Dynamically adjusts process priority based on behavior.
 
+## SCREENSHOTS (Not In Order)
+![image alt](https://github.com/clarenceadal/Adal_Scheduler/blob/main/Screenshot%202025-07-19%20073902.png)
+![image alt](https://github.com/clarenceadal/Adal_Scheduler/blob/main/Screenshot%202025-07-19%20073932.png)
+![image alt](https://github.com/clarenceadal/Adal_Scheduler/blob/main/Screenshot%202025-07-19%20073957.png)
+![image alt](https://github.com/clarenceadal/Adal_Scheduler/blob/main/Screenshot%202025-07-19%20074032.png)
+![image alt](https://github.com/clarenceadal/Adal_Scheduler/blob/main/Screenshot%202025-07-19%20074110.png)
+![image alt](https://github.com/clarenceadal/Adal_Scheduler/blob/main/Screenshot%202025-07-19%20074130.png)
 ## Sample Input & Expected Output
 
 ### Sample Input:
