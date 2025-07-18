@@ -54,3 +54,6 @@ P3: Completion = 6, Turnaround = 6, Response = 3
 
 Average Turnaround Time: 3.33
 Average Response Time: 1.33
+
+### Known Bugs
+No known bugs as of the moment.
