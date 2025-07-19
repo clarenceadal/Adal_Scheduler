@@ -41,12 +41,12 @@ Preemptive version of SJF. At each time unit, the process with the shortest rema
 A complex scheduler that uses multiple queues with varying priorities and time quanta. Dynamically adjusts process priority based on behavior.
 
 ## SCREENSHOTS (Not In Order)
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
+![image alt](https://github.com/clarenceadal/Adal_Scheduler/blob/main/Screenshot%202025-07-19%20132645.png)
+![image alt](https://github.com/clarenceadal/Adal_Scheduler/blob/main/Screenshot%202025-07-19%20132733.png)
+![image alt](https://github.com/clarenceadal/Adal_Scheduler/blob/main/Screenshot%202025-07-19%20132839.png)
+![image alt](https://github.com/clarenceadal/Adal_Scheduler/blob/main/Screenshot%202025-07-19%20133018.png)
+![image alt](https://github.com/clarenceadal/Adal_Scheduler/blob/main/Screenshot%202025-07-19%20133048.png)
+![image alt](https://github.com/clarenceadal/Adal_Scheduler/blob/main/Screenshot%202025-07-19%20133149.png)
 ## Sample Input & Expected Output
 
 ### Sample Input:
