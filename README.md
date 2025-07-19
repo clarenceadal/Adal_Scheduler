@@ -41,12 +41,12 @@ Preemptive version of SJF. At each time unit, the process with the shortest rema
 A complex scheduler that uses multiple queues with varying priorities and time quanta. Dynamically adjusts process priority based on behavior.
 
 ## SCREENSHOTS (Not In Order)
-![image alt](https://github.com/clarenceadal/Adal_Scheduler/blob/main/Screenshot%202025-07-19%20073902.png)
-![image alt](https://github.com/clarenceadal/Adal_Scheduler/blob/main/Screenshot%202025-07-19%20073932.png)
-![image alt](https://github.com/clarenceadal/Adal_Scheduler/blob/main/Screenshot%202025-07-19%20073957.png)
-![image alt](https://github.com/clarenceadal/Adal_Scheduler/blob/main/Screenshot%202025-07-19%20074032.png)
-![image alt](https://github.com/clarenceadal/Adal_Scheduler/blob/main/Screenshot%202025-07-19%20074110.png)
-![image alt](https://github.com/clarenceadal/Adal_Scheduler/blob/main/Screenshot%202025-07-19%20074130.png)
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
 ## Sample Input & Expected Output
 
 ### Sample Input:
@@ -63,4 +63,4 @@ Average Turnaround Time: 3.33
 Average Response Time: 1.33
 
 ### Known Bugs or Incomplete Features
-No known bugs as of the moment. but it lacks the step by step execution mode, export results to a file, context switching delay, and live charts.
+No known bugs as of the moment. but it lacks the step by step execution mode, export results to a file, and live charts.
